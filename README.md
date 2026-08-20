@@ -67,3 +67,29 @@
   </tr>
 </table>
 
+
+
+
+
+
+<p align="center">
+  <img src="https://64.media.tumblr.com/435d9d6cbc2700499c99a67b95b73685/e755ae029ad44057-b6/s2048x3072/083c1074570c5119c9771fa25e1cf51bcf05fa17.pnj" alt="Alt Text" width="500" />
+</p>
+
+
+  <table>
+    <tr>
+      <td align="center"
+      <td>${\color{#c1e5ff}\text{CAUTIONS : im mostly offtab but if u wanna int with me whisper, im very awkward but i mean well}}$<br>
+      </td>
+    </tr>
+  </table>
+  
+<table>
+  <tr>
+    <td align="center">
+      ${\color{#68b7f1}\text{CURRENT FIXATIONS : Strength smp, Unstable Universe , Lifesteal smp , pjsk , FUNHOUSE , CRK. }}$
+      <br>
+    </td>
+  </tr>
+</table>
