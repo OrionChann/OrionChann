@@ -80,7 +80,15 @@
   <table>
     <tr>
       <td align="center"
-      <td>${\color{#c1e5ff}\text{CAUTIONS : im mostly offtab but if u wanna int with me whisper, im very awkward but i mean well || i forget alot and so if i do forget what happened yesterday dont think i made an excuse to ignore u.}}$<br>
+      <td>${\color{#c1e5ff}\text{CAUTIONS 001: im mostly offtab but if u wanna int with me whisper, im very awkward but i mean well.}}$<br>
+      </td>
+    </tr>
+  </table>
+  
+  <table>
+    <tr>
+      <td align="center"
+      <td>${\color{#c1e5ff}\text{CAUTIONS 002:  i forget alot and so if i do forget the important thing u said, dont think i made an excuse to ignore u.}}$<br>
       </td>
     </tr>
   </table>
