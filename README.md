@@ -88,19 +88,11 @@
   <table>
     <tr>
       <td align="center"
-      <td>${\color{#c1e5ff}\text{CAUTIONS 002:  i forget a lot and if i forget something important, please dont think i made an excuse to ignore u.}}$<br>
+      <td>${\color{#c1e5ff}\text{CAUTIONS 002:  i forget a lot and if i forget something important please dont think i made an excuse to ignore u.}}$<br>
       </td>
     </tr>
   </table>
-    
-  <table>
-    <tr>
-      <td align="center"
-      <td>${\color{#c1e5ff}\text{CAUTIONS 003:  if u bring along a friend i dont know, i will be awkward and quiet so dont try to force me to int normally. it takes time for me to not be awkward. }}$<br>
-      </td>
-    </tr>
-  </table>
-  
+ 
 <table>
   <tr>
     <td align="center">
